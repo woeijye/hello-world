@@ -32,16 +32,16 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
       <td>Contas para acessos</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="gmail e azure" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="gmail e azure" >
         </a>
       </td>
     </tr>
     <tr>
       <td>02</td>
-      <td>Criar Recurso</td>
+      <td>Criar Recurso e Serviços</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="azure" >
         </a>
       </td>
     </tr>
@@ -50,7 +50,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
       <td>Implantar o modelo básico</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Azure AI Studio" >
         </a>
       </td>    
     </tr>
@@ -59,7 +59,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
       <td>Criar a Camada de Tradução</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Google Colab" >
         </a>
       </td>    
     </tr>
@@ -95,7 +95,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 
 5. Acessar o Playground de Chat e enviar uma mensagem para testar o chat;
 
-6. Acessar o https://colab.research.google.com/![image](https://github.com/user-attachments/assets/7c86acdf-51c5-48db-9c0e-87bd16549caa)
+6. Acessar o https://colab.research.google.com;
 
 7. Instalar o pacote python-docx;
 
