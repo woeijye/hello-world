@@ -70,43 +70,42 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 ---
 ##  Pré-Requisitos
 
-Ter uma conta de e-mail 
+Ter uma conta de e-mail, para fazer acessos diversos 
 - Para este projeto foi usado uma conta @gmail.
-- Preencha o primeiro campo com um nome da sua escolha (escolha um nome que não seja comum).
-- Clique no botão 'Join'.
+- A mesma foi usada para para acessar o github.
+- A conta github usada para logar no portal.azure.com.
 
-Criar uma conta gratuita
-- (https://aka.ms/oaiapply)
-- Para este projeto foi usado uma conta @gmail.
+Cartão de crédito válido 
+- Será necessário no momento da criação da conta gratuita no Azure.
 
-Ter uma conta de e-mail 
-- Para este projeto foi usado uma conta @gmail.
+Criar uma conta gratuita no Azure
+- usar o link fornecido no bootcamp: (https://aka.ms/oaiapply).
   
 
-### Instruções (PT/BR)
+### Instruções
 
-1. Faça um **Fork** deste repositório;
+1. Criar **Grupo de recursos** dio-tradutor;
 
-2. Clone localmente: `git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git`;
+2. Implantar o serviço **Tradutor**;
 
-3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
+3. Implantar o serviço **Azure OpenAI**;
 
-4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
-    > Exemplo: `git checkout -b feat/community/elidianaandrade`
+4. Acessar o Azure AI Studio para implantar o modelo básico gpt-4o-mini;
 
-5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
+5. Acessar o Playground de Chat e enviar uma mensagem para testar o chat;
 
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
+6. Acessar o https://colab.research.google.com/![image](https://github.com/user-attachments/assets/7c86acdf-51c5-48db-9c0e-87bd16549caa)
 
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
+7. 
 
-10. Crie um **Pull Request**.
+8. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
+
+9. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
+
+10. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
+
+11. Crie um **Pull Request**.
 
 
 ---
