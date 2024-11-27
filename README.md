@@ -70,10 +70,18 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 ---
 ##  Pré-Requisitos
 
-Primeiro Passo:
-- Entre no site em ambos dispositivos.
+Ter uma conta de e-mail 
+- Para este projeto foi usado uma conta @gmail.
 - Preencha o primeiro campo com um nome da sua escolha (escolha um nome que não seja comum).
 - Clique no botão 'Join'.
+
+Criar uma conta gratuita
+- (https://aka.ms/oaiapply)
+- Para este projeto foi usado uma conta @gmail.
+
+Ter uma conta de e-mail 
+- Para este projeto foi usado uma conta @gmail.
+  
 
 ### Instruções (PT/BR)
 
