@@ -70,16 +70,17 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 ---
 ##  Pré-Requisitos
 
-Ter uma conta de e-mail, para fazer acessos diversos 
+**CONTA DE E-MAIL**, para fazer acessos diversos 
 - Para este projeto foi usado uma conta @gmail.
 - A mesma foi usada para para acessar o github.
 - A conta github usada para logar no portal.azure.com.
 
-Cartão de crédito válido 
+**CARTÃO DE CRÉDITO** válido 
 - Será necessário no momento da criação da conta gratuita no Azure.
 
-Criar uma conta gratuita no Azure
-- usar o link fornecido no bootcamp: (https://aka.ms/oaiapply).
+**CONTA AZURE**
+- Criar a conta "gratuita".
+- Usar o link fornecido no bootcamp: (https://aka.ms/oaiapply).
   
 
 ### Instruções
@@ -96,17 +97,13 @@ Criar uma conta gratuita no Azure
 
 6. Acessar o https://colab.research.google.com/![image](https://github.com/user-attachments/assets/7c86acdf-51c5-48db-9c0e-87bd16549caa)
 
+7. Instalar o pacote python-docx;
 
-7. 
+8. Codificar o método que extrai o texto de URL;
 
-8. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
+9. Codificar o método traduz o texto da URL;
 
-9. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
-
-10. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
-
-11. Crie um **Pull Request**.
-
+10. Executar o método tradutor; 
 
 ---
 
