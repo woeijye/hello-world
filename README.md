@@ -1,10 +1,10 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Desafio 1 de 2: Construir um Tradutor Técnico com Azure AI</span>
+    <span>Tradutor Técnico com Azure AI</span>
 </h1>
 
-Tradutor desenvolvido para fins didáticos, seguindo as orientações da aula 07 (Desafio de Projeto: Tradutor de Artigos Técnicos usando Azure AI) do módulo 03 (Desenvolvendo Soluções de Processamento de Linguagem Natural).
+Desenvolver um tradutor para fins didáticos, seguindo as orientações da aula 07 (Desafio de Projeto: Tradutor de Artigos Técnicos usando Azure AI) do módulo 03 (Desenvolvendo Soluções de Processamento de Linguagem Natural).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
