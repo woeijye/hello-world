@@ -103,7 +103,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 ---
 
 ## Instrutor
-Henrique Eduardo Souza
+Henrique Eduardo Souza<br>
 Microsoft MVP
 
 ##
