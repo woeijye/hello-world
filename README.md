@@ -30,11 +30,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
     <tr>
       <td>01</td>
       <td>Contas para acessos</td>
-      <td align="center">
-        <a href="">
-           <align="center" alt="gmail e azure" >
-        </a>
-      </td>
+      <td>gmail e azure</td>
     </tr>
     <tr>
       <td>02</td>
