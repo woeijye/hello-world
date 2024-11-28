@@ -32,7 +32,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
       <td>Contas para acessos</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="gmail e azure" >
+           <align="center" alt="gmail e azure" >
         </a>
       </td>
     </tr>
