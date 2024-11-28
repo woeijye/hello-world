@@ -30,34 +30,22 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
     <tr>
       <td>01</td>
       <td>Contas para acessos</td>
-      <td>gmail e azure</td>
+      <td>Gmail, Github e Azure</td>
     </tr>
     <tr>
       <td>02</td>
       <td>Criar Recurso e Serviços</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="azure" >
-        </a>
-      </td>
+      <td>Portal Azure</td>
     </tr>
     <tr>
       <td>03</td>
       <td>Implantar o modelo básico</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Azure AI Studio" >
-        </a>
-      </td>    
+      <td>Azure AI Studio</td> 
     </tr>
     <tr>
       <td>04</td>
       <td>Criar a Camada de Tradução</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Google Colab" >
-        </a>
-      </td>    
+      <td>Google Collab</td> 
     </tr>
   </tbody>
   <tfoot></tfoot>
