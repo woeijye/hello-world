@@ -22,7 +22,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>Macro Etapas</th>
       <th>Observações</th>
     </tr>
   </thead>
@@ -51,7 +51,6 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
   <tfoot></tfoot>
 </table>
 
----
 ##  Pré-Requisitos
 
 **CONTA DE E-MAIL**, para fazer acessos diversos 
@@ -66,7 +65,7 @@ Desenvolver uma solução de tradução automática de artigos técnicos utiliza
 - Criar a conta "gratuita".
 - Usar o link fornecido no bootcamp: (https://aka.ms/oaiapply).
   
-
+---
 ### Instruções
 
 1. Criar **Grupo de recursos** dio-tradutor;
